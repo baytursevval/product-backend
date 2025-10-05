@@ -6,7 +6,7 @@ WORKDIR /app
 COPY pom.xml .
 COPY src ./src
 
-# Maven ile jar dosyasını build et
+# Maven ile jar dosyasını build ett
 RUN mvn clean package -DskipTests
 
 # ---- Run aşaması ----
