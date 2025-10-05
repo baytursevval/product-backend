@@ -1,0 +1,7 @@
+/home/sevo/Desktop/productsDemo/src/main/java/com/sevval/productsDemo/ProductsDemoApplication.java
+/home/sevo/Desktop/productsDemo/src/main/java/com/sevval/productsDemo/config/CorsConfig.java
+/home/sevo/Desktop/productsDemo/src/main/java/com/sevval/productsDemo/controller/ProductController.java
+/home/sevo/Desktop/productsDemo/src/main/java/com/sevval/productsDemo/dto/ProductResponse.java
+/home/sevo/Desktop/productsDemo/src/main/java/com/sevval/productsDemo/model/Product.java
+/home/sevo/Desktop/productsDemo/src/main/java/com/sevval/productsDemo/service/GoldPriceService.java
+/home/sevo/Desktop/productsDemo/src/main/java/com/sevval/productsDemo/service/ProductLoader.java

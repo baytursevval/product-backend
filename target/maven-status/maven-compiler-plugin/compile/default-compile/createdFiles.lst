@@ -1,0 +1,9 @@
+com/sevval/productsDemo/dto/ProductResponse.class
+com/sevval/productsDemo/model/Product.class
+com/sevval/productsDemo/controller/ProductController.class
+com/sevval/productsDemo/service/ProductLoader$1.class
+com/sevval/productsDemo/config/CorsConfig.class
+com/sevval/productsDemo/config/CorsConfig$1.class
+com/sevval/productsDemo/service/ProductLoader.class
+com/sevval/productsDemo/service/GoldPriceService.class
+com/sevval/productsDemo/ProductsDemoApplication.class
